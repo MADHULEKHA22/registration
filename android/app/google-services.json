@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "192936358262",
+    "firebase_url": "https://registration-3d512-default-rtdb.firebaseio.com",
+    "project_id": "registration-3d512",
+    "storage_bucket": "registration-3d512.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192936358262:android:f75d2ccc4e210935318a57",
+        "android_client_info": {
+          "package_name": "com.example.registrationform"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIW-Hj1ceS8VJNY7T8Ti7RlmtOOpn5yLI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192936358262:android:41a65f742aeec9de318a57",
+        "android_client_info": {
+          "package_name": "com.meta.registration"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIW-Hj1ceS8VJNY7T8Ti7RlmtOOpn5yLI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
